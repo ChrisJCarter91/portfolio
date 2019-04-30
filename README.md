@@ -32,13 +32,22 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 
 ### Follow these steps for completing your project after your MVP is completed:
 
-- [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
+- [X] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
 - [ ] Add your Project Manager as a Reviewer on the Pull-request
 - [ ] PM then will count the HW as done by merging the branch back into master.
 
 ## MVP Requirements
 
 - [ ] Study the code base and identify both responsive units and where media queries were used.  Take notes on anything that confuses you or interesting things you find.  Share this information in your standup meeting with your group
+
+I found it interesting that the background image went into CSS vs HTML. I had never seen that before.
+
+I had never seen the "!important" tag in CSS
+
+I found it interesting they put the @media tags at the beginning of the container in CSS
+
+A large chunk of the CSS was ".row" which I found came from the grid-row property
+
 - [X] Customize the template to you 
 	- [X] Update the title tag match your name
 	- [X] Update the place holder content throughout the template to your information
