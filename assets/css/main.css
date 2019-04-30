@@ -2747,7 +2747,7 @@ input, select, textarea {
 		}
 
 		#header .logo {
-			background: #4eb980;
+			/* background: #4eb980; */
 			border-radius: 100%;
 			color: #ffffff;
 			cursor: default;
@@ -2755,7 +2755,7 @@ input, select, textarea {
 			font-size: 2.25em;
 			height: 2.35em;
 			line-height: 2.35em;
-			margin: 0 0 0.75em 0;
+			margin: 0 55px 0.75em 0;
 			text-align: center;
 			width: 2.35em;
 		}
